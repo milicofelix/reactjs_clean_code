@@ -37,7 +37,9 @@
     ]
   },
   "devDependencies": {
+    "@types/node": "^20.14.9",
     "git-commit-msg-linter": "^2.4.2",
-    "husky": "^9.0.11"
+    "husky": "^9.0.11",
+    "typescript": "^5.5.2"
   }
 }
