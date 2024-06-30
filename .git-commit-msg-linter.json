@@ -1,0 +1,5 @@
+{
+    "pattern": "^(feat|fix|docs|style|refactor|test|chore|build)(\\(.*\\))?: .{1,50}",
+    "errorMsg": "Commit message does not follow the convention!"
+  }
+  
